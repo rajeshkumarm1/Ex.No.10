@@ -1,7 +1,7 @@
 # Ex.No.10: Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
 ## Date: 19/05/2025 
-## Reg. No.: 212222230031
+## Reg. No.: 212222060190
 
 
 ---
@@ -168,3 +168,4 @@ Evaluation ensures that the generated content meets your standards.
 
 ## Conclusion:
 By applying various prompting techniques, you can generate high-quality content for a wide range of use cases, from business reports and case studies to creative works like short stories and articles. This experiment demonstrates how structured prompting can guide AI models like ChatGPT to create coherent, accurate, and engaging outputs tailored to specific needs.
+v
